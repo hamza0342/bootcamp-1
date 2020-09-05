@@ -1,0 +1,17 @@
+.first {
+    text-align:center;
+    color:red;
+
+}
+
+.second {
+    color: blueviolet;
+    box-shadow: chartreuse;
+    text-align: right;
+}
+
+.third {
+    color: magenta;
+    box-shadow: purple;
+    text-align: left;
+}
